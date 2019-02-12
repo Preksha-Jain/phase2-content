@@ -1,0 +1,26 @@
+.maindiv{
+	display: flex;
+	box-shadow:2px 2px 2px 2px;
+	background:darkblue;
+	
+}
+.leftdiv{
+	background: aqua;
+	color:black;
+	margin: 2%;
+	width: 35%;
+	height: 25%;
+	box-shadow:2px 2px 2px 2px;
+	padding:2%;
+
+
+}
+.rightdiv{
+	background:aqua;
+	margin: 2%;
+	width: 35%;
+	height: 25%;
+    box-shadow:2px 2px 2px 2px;
+    padding:2%;
+
+}
